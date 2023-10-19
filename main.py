@@ -1,4 +1,5 @@
 # MAG-M
+#测试文件，使用请下载MAG_M.py
 
 from email import header
 import requests
