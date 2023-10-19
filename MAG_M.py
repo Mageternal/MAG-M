@@ -7,7 +7,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 Medhot = ""
-url = "http://magyyds.shop"
+url = "https://baidu.com"
 phpmyadmin_port = 9301
 timeout_retry = 0
 accuracy = {'HFish':0,'DecoyMini':0}
