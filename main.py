@@ -1,5 +1,5 @@
 # MAG-M
- 
+
 from email import header
 import requests
 import random
